@@ -5,5 +5,5 @@
     <description>My shop allows you to manage and create online shops withe ease!</description>
     <icon>icon.png</icon>
     <requiresAuthorization>true</requiresAuthorization>
-    <authorizationFile>src.SPRT.classes.SPRT.MyShop.class.php | src.SPRT.classes.SPRT.MyShopCategories.class.php | src.SPRT.classes.SPRT.MyShopCheckout.class.php</authorizationFile>
+    <authorizationFile>src.SPRT.classes.SPRT.MyShop.class.php | src.SPRT.classes.SPRT.MyShopCategories.class.php | src.SPRT.classes.SPRT.MyShopCheckout.class.php | src.SPRT.classes.SPRT.MyShopCart.class.php</authorizationFile>
 </plugin>

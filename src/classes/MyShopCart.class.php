@@ -2,10 +2,7 @@
 
 use database\databaseConfig;
 
-class MyShop
+class MyShopCart
 {
 
 }
-
-
-
