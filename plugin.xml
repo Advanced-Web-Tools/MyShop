@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<plugin>
+    <name>MyShop</name>
+    <version>1.0.0</version>
+    <description>My shop allows you to manage and create online shops withe ease!</description>
+    <icon>icon.png</icon>
+    <authorizationFile>src.SPRT.classes.SPRT.MyShop.class.php|src.SPRT.classes.SPRT.MyShopCategories.class.php|src.SPRT.classes.SPRT.MyShopCheckout.class.php</authorizationFile>
+</plugin>
