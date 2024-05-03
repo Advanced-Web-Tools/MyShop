@@ -1,0 +1,52 @@
+.section,
+.page {
+    margin: 0;
+    padding: 0;
+}
+
+.section 
+{
+    padding: 20px;
+}
+
+.section h3 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+}
+
+.wrapper 
+{
+    background: #fff;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.input-container {
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.input-container *
+{
+    font-family: "Roboto", sans-serif;
+}
+
+.input-container select
+{
+    height: 32px;
+}
+
+.input-container textarea
+{
+    width: 60%;
+    min-height: 32px;
+    height: 32px;
+    max-height: 300px;
+    font-size: 14px;
+    line-height: 25px;
+    resize: vertical;
+    border-radius: 5px;
+    border: 1px solid var(--primary-color);
+}
